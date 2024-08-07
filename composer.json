@@ -1,0 +1,22 @@
+{
+    "name": "noouh/jt-shipping-api",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "noouh\\JtShippingApiLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "noouh for integrated solutions",
+            "email": "info@noouh.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.9"
+    }
+}
