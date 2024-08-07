@@ -2,10 +2,9 @@
 Package shipping / integrate with J&T Express Company For shipping services
 
 
-# Hi, I'm Amin! 👋
+# Hi 👋
 
-## 🚀 About Me
-I'm a web developer ...
+## 🚀 
 
 ## Installation
 Install with composer
